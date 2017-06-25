@@ -1,0 +1,15 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 5CA0-07C7
+G:.
+│  actions.js
+│  getters.js
+│  index.js
+│  modules.js
+│  mutation-types.js
+│  mutations.js
+│  text.txt
+│  
+└─modules
+        modules-a.js
+        modules-b.js
+        
